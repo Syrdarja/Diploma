@@ -110,13 +110,20 @@
 
 # 6 Тестовая документация 
 ### Чек-лист
+
 https://github.com/Syrdarja/Diploma/blob/main/Check.xlsx
 
+https://docs.google.com/spreadsheets/d/1yUqo9zpQNE1E51neabWAS0Bl_F4wCWw3ePCiz_2n9wA/edit?gid=0#gid=0
+
 ### Тест-кейсы
+
 https://github.com/Syrdarja/Diploma/blob/main/Cases.xlsx
+
+https://docs.google.com/spreadsheets/d/1b3vwAKLQpCN9dKj6OgxUEDWwHgr6VtzUbx19UdyjSdA/edit?gid=1783569371#gid=1783569371
 
 ### Процедура запуска авто-тестов
 
+https://github.com/Syrdarja/Diploma/blob/main/README.md
 
 ###   Allure отчеты
 
@@ -124,16 +131,15 @@ https://github.com/Syrdarja/Diploma/blob/main/allure-results.rar
 
 ### Сравнение результатов тестирования
 
-
+https://github.com/Syrdarja/Diploma/blob/main/Result.md
 
 ### Баг-репорт 
 
-
-
+https://github.com/Syrdarja/Diploma/issues
 
 ### Отчет по тестированию
 
-
+https://github.com/Syrdarja/Diploma/blob/main/Report.md
 
 # 7 Интервальная оценка
 **Подготовка тест-плана и тестового окружения:**
